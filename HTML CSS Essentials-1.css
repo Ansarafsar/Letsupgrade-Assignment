@@ -1,0 +1,17 @@
+/*EXTERNAL CSS*/
+
+p
+{
+    color: green;
+    background-color: yellow;
+    font-size:30px;
+}
+
+.para1 {
+    color: red;
+    background-color: gray;
+}
+
+.p2{ 
+    color: blue;
+}
